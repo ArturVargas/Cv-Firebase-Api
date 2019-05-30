@@ -1,0 +1,96 @@
+{
+    "data": {
+        "address": "CDMX, México.",
+        "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mDvf3eDUv2xWCV66iQZaAReFbBVuio2WBlwyc10Qw=s96",
+        "name": "Arturo Castañon",
+        "profession": "FrontEnd Developer",
+        "bio": "Web Developer, Aficionado del Fitness y los deportes Extremos, 'El fracaso es soló el exito en progreso'",
+        "certificate": {
+           "0": {
+                "date": "Jun 2018",
+                "description": "Cinta Negra: Desarrollador Fullstack",
+                "institution": "Dev.f",
+                "name": "FullStack Developer"
+            },
+           "1": {
+                "date": "Nov 2017",
+                "description": "Improve English Skills",
+                "institution": "Lambton College, CA",
+                "name": "English Course"
+            }
+        },
+        "education": {
+            "0": {
+                "degree": "Sistems Computer Engineering",
+                "description": "Ingenireria en Sistemas Computacionales, Especialidad en Aplicaciones Web",
+                "endDate": "Feb 2019",
+                "institution": "TECNM",
+                "startDate": "Sept 2015"
+            }
+        },
+        "experience": {
+           "0": {
+                "company": "MCG Networks",
+                "endDate": "Apr 2019",
+                "jobDescription": "Desarrollo de Aplicacion Movil con IONIC Framework",
+                "jobTitle": "Frontend",
+                "startDate": "Feb 2019"
+            },
+           "1": {
+                "company": "Tix Media",
+                "endDate": "Jan 2019",
+                "jobDescription": "Desarrollo de Aplicaciones Web Robustas con Angular",
+                "jobTitle": "Intership",
+                "startDate": "Feb 2017"
+            }
+        },
+        "skills": {
+           "0": {
+                "name": "HTML5",
+                "percentage": "85%"
+            },
+           "1": {
+                "name": "CSS",
+                "percentage": "55%"
+            },
+           "2": {
+                "name": "JavaScript",
+                "percentage": "65%"
+            },
+           "3": {
+                "name": "React",
+                "percentage": "40%"
+            },
+           "4": {
+                "name": "Angular 2+",
+                "percentage": "70%"
+            },
+           "5": {
+                "name": "Git",
+                "percentage": "65%"
+            },
+           "6": {
+                "name": "Bootstrap",
+                "percentage": "80%"
+            }
+        },
+        "social": {
+           "0": {
+                "name": "Facebook",
+                "url": "https://facebook.com/"
+                },
+           "1": {
+                "name": "Instagram",
+                "url": "https://www.instagram.com/arthur.castanon/?hl=es-la"
+                },
+           "2": {
+                "name": "GitHub",
+                "url": "https://github.com/ArturVargas"
+                },
+           "3": {
+                "name": "Linkedin",
+                "url": "https://www.linkedin.com/in/arturo-casta%C3%B1on-vargas-27aa80166/"
+                }
+        }
+    }
+}
