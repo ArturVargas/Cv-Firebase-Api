@@ -26,7 +26,7 @@ Ve al path del proyecto de Firebase.
 Ejecuta ``` firebase init functions ``` La herramienta te ofrece una opción para instalar las dependencias con npm. Es seguro rechazarla si quieres administrar las dependencias de otra manera.
 
 ## Documentacion Util.
-* [Primeros Pasos con Functions] (https://firebase.google.com/docs/functions/get-started)
-* [Tutorial] (https://web.facebook.com/groups/DevCCiudaddeMexico/permalink/1310867442424397/?sfnsw=cl)
+* [Primeros Pasos con Functions](https://firebase.google.com/docs/functions/get-started)
+* [Tutorial](https://web.facebook.com/groups/DevCCiudaddeMexico/permalink/1310867442424397/?sfnsw=cl)
 * Copia o Descarga el archivo dataCv.json y modificalo con tus datos.
 
